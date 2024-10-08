@@ -24,7 +24,7 @@ Abaixo está o diagrama de classes que ilustra a estrutura do projeto:
 
 ## Resumo
 
-Este projeto é um sistema simples de gerenciamento de contratos que permite processar contratos e calcular parcelas usando diferentes métodos de pagamento online. Ele oferece uma estrutura robusta para lidar com contratos e suas parcelas, facilitando a gestão e o processamento de informações financeiras.
+Este projeto é um sistema simples de gerenciamento de contratos que permite processar contratos e calcular parcelas usando diferentes métodos de pagamento online. Ele oferece uma estrutura para lidar com contratos e suas parcelas, facilitando a gestão e o processamento de informações financeiras.
 
 ## Agradecimentos
 
